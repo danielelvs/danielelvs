@@ -10,7 +10,5 @@
   <a href="https://steamcommunity.com/id/daniiexe" alt="Steam" target="_blank">
     <img src="https://img.shields.io/badge/Steam-1C1C1C?style=flat-square&logo=steam&logoColor=EB599B&link=https://steamcommunity.com/id/daniiexe">
   </a>
-  
-  <img src="https://img.shields.io/badge/Discord-1C1C1C?style=flat-square&logo=discord&logoColor=EB599B&link=daniichan#9322">
 </p>  
 
