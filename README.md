@@ -10,5 +10,8 @@
   <a href="https://steamcommunity.com/id/daniiexe" alt="Steam" target="_blank">
     <img src="https://img.shields.io/badge/Steam-1C1C1C?style=flat-square&logo=steam&logoColor=EB599B&link=https://steamcommunity.com/id/daniiexe">
   </a>
-</p>  
-
+  
+  <a href="https://playoverwatch.com/en-us/career/pc/DaniiChan-1447" alt="Overwatch" target="_blank">
+    <img src="https://img.shields.io/badge/Overwatch-1C1C1C?style=flat-square&logo=overwatch&logoColor=EB599B&link=https://playoverwatch.com/en-us/career/pc/DaniiChan-1447">
+  </a>
+</p>
