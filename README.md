@@ -12,6 +12,6 @@
   </a>
 
   <a href="https://www.tiktok.com/@danielelvs" alt="TikTok" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Steam-1C1C1C?style=flat-square&logo=tiktok&logoColor=EB599B&link=https://www.tiktok.com/@danielelvs" />
+    <img src="https://img.shields.io/badge/TikTok-1C1C1C?style=flat-square&logo=tiktok&logoColor=EB599B&link=https://www.tiktok.com/@danielelvs" />
   </a>
 </p>
