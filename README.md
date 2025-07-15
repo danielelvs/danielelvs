@@ -8,7 +8,7 @@
   </a>
   
   <a href="https://steamcommunity.com/id/daniiexe" alt="Steam" target="_blank" style="display: block; text-decoration: none !important;">
-    <img src="https://img.shields.io/badge/Steam-1C1C1C?style=for-the-badge&logo=steam&logoColor=66c0f4&link=https://steamcommunity.com/id/daniiexe" />
+    <img src="https://img.shields.io/badge/Steam-1C1C1C?style=for-the-badge&logo=steam&logoColor=66c0f4&link=https://steamcommunity.com/id/danielelvs" />
   </a>
 
   <a href="https://www.tiktok.com/@danielelvs" alt="TikTok" target="_blank" style="display: block; text-decoration: none !important;">
